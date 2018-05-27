@@ -1,0 +1,7 @@
+DEBUG = True
+SECRET_KEY = ""
+MYSQL_HOST = ""
+MYSQL_USER = ""
+MYSQL_PASS = ""
+MYSQL_DB = ""
+MYSQL_CHARSET = ""
